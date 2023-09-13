@@ -1,5 +1,5 @@
 module.exports = {
   async setup () {
-    console.log('Plugin: Cadastro')
+    console.log('Plugin: Estoque')
   }
 }
